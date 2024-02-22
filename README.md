@@ -24,10 +24,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 My expended<a name="about-project"></a>.
+# 📖 Hello rails react <a name="about-project"></a>.
 
-My expended app help people track their expends, by grouping every expends in group and show the total amount of every group
-
+Put React in ruby on rails app
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
