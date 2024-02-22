@@ -7,7 +7,7 @@ const GREETING_URL = 'http://127.0.0.1:3000/greeting';
 export const fetchUserData = createAsyncThunk("user/fetchUserData", () => {
     return axios
       .get(GREETING_URL)
-      .then((response) => response.data.map((user) => user.id))
+      .then((response) => response.data)
   }
 );
 
