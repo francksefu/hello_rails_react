@@ -3,6 +3,7 @@ import { useSelector } from "react-redux";
 
 export const Great = () => {
   const user = useSelector((state) => state.user)
+  
   let valeur = "";
 
   if (user.status == "succeeded") {
