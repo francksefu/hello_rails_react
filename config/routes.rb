@@ -6,6 +6,6 @@ Rails.application.routes.draw do
 
 
   # Defines the root path route ("/")
-   root "mesages#index"
+   root "messages#index"
    get "/greeting", to: "messages#greeting"
 end
